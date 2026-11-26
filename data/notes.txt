@@ -1,0 +1,24 @@
+COMPANY NOTES — Demo knowledge base for the research agent
+
+Refund Policy:
+Customers can request a full refund within 14 days of purchase if the product has not been heavily used.
+Refunds are processed within 5–7 business days to the original payment method.
+To start a refund, email support@example.com with the order ID.
+
+Support Hours:
+Monday to Friday, 9:00 AM – 6:00 PM IST.
+Weekend support is limited to urgent production issues only.
+
+Product Tiers:
+- Starter: up to 3 users, email support
+- Growth: up to 20 users, chat + email support
+- Enterprise: unlimited users, dedicated success manager
+
+API Rate Limits:
+Starter: 100 requests/minute
+Growth: 1,000 requests/minute
+Enterprise: custom limits
+
+Onboarding:
+New customers receive a welcome email within 1 hour of signup.
+A setup call can be booked from the dashboard under Settings > Onboarding.
