@@ -1,0 +1,50 @@
+[
+  {
+    "id": "calc_1",
+    "question": "What is 12 * 8?",
+    "expected_tool": "calculator",
+    "expected_contains": "96"
+  },
+  {
+    "id": "calc_2",
+    "question": "Calculate 100 / 4",
+    "expected_tool": "calculator",
+    "expected_contains": "25"
+  },
+  {
+    "id": "calc_3",
+    "question": "What is 15 + 27?",
+    "expected_tool": "calculator",
+    "expected_contains": "42"
+  },
+  {
+    "id": "time_1",
+    "question": "What is the current time in UTC?",
+    "expected_tool": "get_current_time",
+    "expected_contains": "UTC"
+  },
+  {
+    "id": "notes_refund",
+    "question": "How many days do customers have to request a refund?",
+    "expected_tool": "search_notes",
+    "expected_contains": "14"
+  },
+  {
+    "id": "notes_support",
+    "question": "What are the weekday support hours?",
+    "expected_tool": "search_notes",
+    "expected_contains": "9:00"
+  },
+  {
+    "id": "notes_tiers",
+    "question": "How many users does the Growth plan support?",
+    "expected_tool": "search_notes",
+    "expected_contains": "20"
+  },
+  {
+    "id": "notes_api",
+    "question": "What is the API rate limit for the Starter tier?",
+    "expected_tool": "search_notes",
+    "expected_contains": "100"
+  }
+]
